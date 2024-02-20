@@ -1,0 +1,14 @@
+@font-face {
+    font-family: heavyFont;
+    src: url(/font/Sequel\ Sans\ Heavy\ Disp.ttf);
+}
+
+@font-face {
+    font-family: lightFont;
+    src: url(/font/Sequel\ Sans\ Light\ Disp.ttf);
+}
+
+@font-face {
+    font-family: mediumFont;
+    src: url(/font/Sequel\ Sans\ Medium\ Disp.ttf);
+}
